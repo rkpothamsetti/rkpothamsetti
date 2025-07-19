@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pothamsetti Radha Krishna</h1>
 <h3 align="center">An aspiring AI Engineer and Developer from India 🇮🇳</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rkpothamsetti/rkpothamsetti/main/1638981799header.webp" alt="banner" />
+  <img src="https://raw.githubusercontent.com/rkpothamsetti/rkpothamsetti/main/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934756.jpg" alt="coding-boy" width="600"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radha-krishna-pothamsetti-435649308/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
@@ -22,8 +16,6 @@
 
 <h2 align="center">hey there 👋</h2>
 
-
----
 
 ### 🧑‍🎓 About Me
 
