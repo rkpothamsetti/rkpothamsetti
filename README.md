@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pothamsetti Radha Krishna</h1>
-<h3 align="center">An aspiring AI Engineer and Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">An aspiring AI Engineer and Developer from India 🇮🇳</h3>
 
 ---
 
