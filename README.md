@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pothamsetti Radha Krishna</h1>
-<h3 align="center">An aspiring AI Engineer and Developer from India 🇮🇳</h3>
+<h3 align="center">An aspiring AI Engineer and Developer from India </h3>
 <p align="center">
   <img src="./pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934756.jpg" alt="coding-boy" width="600"/>
 </p>
@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=rkpothamsetti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h2 align="center">hey there 👋</h2>
 
 
 ### 🧑‍🎓 About Me
