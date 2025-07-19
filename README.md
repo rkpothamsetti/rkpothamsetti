@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pothamsetti Radha Krishna</h1>
 <h3 align="center">An aspiring AI Engineer and Developer from India 🇮🇳</h3>
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/rkpothamsetti/rkpothamsetti/main/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934756.jpg](https://github.com/rkpothamsetti/rkpothamsetti/blob/main/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934756.jpg)" alt="coding-boy" width="600"/>
+  <img src="./pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934756.jpg" alt="coding-boy" width="600"/>
 </p>
 
 <p align="center">
